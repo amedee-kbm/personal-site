@@ -47,12 +47,12 @@
     }
   ],
   "profile": {
-    "name": "Michael D'Angelo",
+    "name": "Amedee KWISANGA B.M.",
     "employer": "OpenAI",
     "focus": "Promptfoo and Codex Security",
-    "countriesVisited": 53,
+    "countriesVisited": 4,
     "computingSince": 1993,
-    "currentCity": "New York, NY"
+    "currentCity": "Kigali, RW"
   },
   "colors": {
     "ink": "#292a2e",
@@ -62,8 +62,8 @@
     "accent": "#36559a",
     "hairline": "rgba(35, 39, 46, 0.14)"
   },
-  "generatorDigest": "6cfef1d359dfc9ce05c9bcbd56869a45d5438a1a40c2582655885d2865eb117d",
-  "imageDigest": "c2a623a13cda94e594a0307de93ed76af26ba645b87f65f406552be23746df29",
+  "generatorDigest": "8c652a8ff0f95caf623670725e2eee5df5fdeafbdb8b4b5eed622e9b9f5b7abd",
+  "imageDigest": "ca8d39a59dfb9166f2eb12578d7b1716db669a160ad815afa1def70604108b1a",
   "posts": [
     {
       "slug": "why-i-mostly-switched-from-claude-code-to-codex-desktop-app",
@@ -86,7 +86,7 @@
           "value": "12 min"
         }
       ],
-      "imageDigest": "85fe621c1acdac8c0e9ce871c91bdc69223b825abca4e3975e1a9fd989dc6761"
+      "imageDigest": "f3129cdb7dd98dfb26ba231988b1e0fdb1243f6c9b056fc82c44dd7108a0c6f8"
     },
     {
       "slug": "claude-code-outage",
@@ -109,7 +109,7 @@
           "value": "2 min"
         }
       ],
-      "imageDigest": "89c983fe636d4c0147424f506e7c8f5ddf2bf1b522f2f85aa66949a910a92b04"
+      "imageDigest": "8b64b448651df31f40516e12cae46c1fbb20e76757927e12c46d9d8abbce9c1d"
     },
     {
       "slug": "eurostar-chatbot-analysis",
@@ -132,7 +132,7 @@
           "value": "4 min"
         }
       ],
-      "imageDigest": "bc879c38769f9836915b15e5e17b049820f9b08d5e01954e841f0a957eef8c8e"
+      "imageDigest": "c9ffd580f280da1103785d11b9bdc9fcced985c3aa3a6c190ff8173b7e679f9d"
     },
     {
       "slug": "shipping-with-claude-code",
@@ -155,7 +155,7 @@
           "value": "8 min"
         }
       ],
-      "imageDigest": "6149173111b06f898eb987222738be4c71e00ba8b7d85ffd36292729e0764e7b"
+      "imageDigest": "749160584eddf17383c9c4e36e4a3efd9cdc38c8ee6473e3d33c2aeb78b9b4fe"
     }
   ]
 }

@@ -14,8 +14,8 @@ export const TWITTER_HANDLE = '@dangelosaurus';
  */
 export const SITE_IMAGE_PATH = '/images/me.jpg';
 export const SITE_IMAGE_DIMENSIONS = {
-  width: 1024,
-  height: 1024,
+  width: 460,
+  height: 460,
 } as const;
 
 /**
