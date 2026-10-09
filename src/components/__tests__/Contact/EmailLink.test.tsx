@@ -90,9 +90,13 @@ describe('EmailLink', () => {
 
       // The flash is a *jump* to the complete address from some other alias
       // already several characters long. Looping re-types the address
-      // legitimately, but that grows "h" -> "hi", so the previous frame is a
-      // single character and this guard leaves it alone.
-      if (previous.length > 1 && previous !== localPart) {
+      // legitimately, one character at a time ("de" -> "dev"), so a previous
+      // frame that is the address minus its last character is left alone.
+      if (
+        previous.length > 1 &&
+        previous !== localPart &&
+        previous !== localPart.slice(0, -1)
+      ) {
         expect(shown).not.toBe(localPart);
       }
 
