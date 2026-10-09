@@ -266,7 +266,7 @@ describe('print: contact block', () => {
 
     expect(text).toContain(profile.currentCity);
     expect(text).toContain(profile.email);
-    expect(text).toContain('mldangelo.com');
+    expect(text).toContain('amedeyo.com');
     expect(text).toContain('github.com/mldangelo');
     expect(text).toContain('linkedin.com/in/');
   });
